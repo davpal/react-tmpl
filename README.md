@@ -7,3 +7,4 @@ Lightweight react template with
 * eslint
 * parcel-bundler
 * typescript
+* sass
