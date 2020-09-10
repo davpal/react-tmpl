@@ -6,3 +6,4 @@ Lightweight react template with
 * prettier
 * eslint
 * parcel-bundler
+* typescript
